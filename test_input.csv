@@ -1,0 +1,7 @@
+"ride_id","rideable_type","started_at","ended_at","start_station_name","start_station_id","end_station_name","end_station_id","start_lat","start_lng","end_lat","end_lng","member_casual"
+"159C90AB46D5631B","classic_bike","2023-04-01 17:00:00","2023-04-01 17:01:40","Location One","4330.09","Location Two","5509.02",40.684293985,-73.988944173,40.72231,-74.0106,"member"
+"4349D44670885CED","electric_bike","2023-04-13 15:09:12","2023-04-13 15:12:32","Location Two","6046.02","Location Three","6498.10",40.73912601,-73.97973776,40.75323098,-73.97032517,"member"
+"55EB4E8AF45439D2","electric_bike","2023-04-28 15:17:00","2023-04-28 15:22:00","Location Two","6762.04","Location Three","6809.09",40.76312584,-73.96526895,40.763189,-73.978434,"member"
+"3133FC58AA938D08","classic_bike","2023-04-23 23:59:59","2023-04-24 00:06:39","Location Three","5838.09","Location Three","6691.11",40.73224119,-74.00026394,40.75934501,-73.96759673,"member"
+"BF2DD897668DA1AC","classic_bike","2023-04-21 23:59:59","2023-04-22 00:03:19","Location Three","6762.04","Location Two","6809.09",40.763112187,-73.965811849,40.763189,-73.978434,"member"
+"BF2DD897668DA1AC","classic_bike","2023-04-21 23:59:50","2023-04-21 22:03:19","Location Three","6762.04","Location Two","6809.09",40.763112187,-73.965811849,40.763189,-73.978434,"member"
